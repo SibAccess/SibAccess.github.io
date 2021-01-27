@@ -3,7 +3,7 @@ layout: post
 title: Part I - Opening and Editing a Score
 ---
 
-This lesson shows you how to open a score, introduces the ribbon, and explains how to navigate around a score using both the Navigator panel and various keyboard and mouse shortcuts. It also covers making selections, and copying and pasting. Using an arrangement of the folk song "Scarborough Fair," you will learn how to edit and input notes using your computer keyboard and MIDI keyboard, and how to input lyrics. You will be introduced to playback, and to marking up your score with text and dynamics.
+This lesson shows you how to open a score, introduces the ribbon, and explains how to navigate around a score using various keyboard shortcuts. It also covers making selections, and copying and pasting. Using an arrangement of the folk song "Scarborough Fair," you will learn how to edit and input notes using your computer keyboard and MIDI keyboard, and how to input lyrics. You will be introduced to playback, and to marking up your score with text and dynamics.
 
 <!--more-->
 

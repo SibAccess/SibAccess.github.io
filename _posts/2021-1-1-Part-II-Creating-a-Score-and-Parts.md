@@ -3,7 +3,7 @@ layout: post
 title: Part II - Creating a Score and Parts
 ---
 
-This lesson shows you how to create a new score, then copy and paste material from one score to another. You will learn how to create clef and key signature changes, make more advanced note input including tuplets, and explore the different kinds of objects — including articulations, lines, ties, slurs and text — commonly used to mark up scores. You will also be introduced to dynamic parts, and exporting graphics from Sibelius.
+This lesson shows you how to create a new score, introduce clef and key signature changes, execute more advanced note input including tuplets, and explore the different kinds of objects — including articulations, lines, ties, slurs and text — commonly used to mark up scores. You will also be introduced to dynamic parts, and exporting graphics from Sibelius.
 
 <!--more-->
 

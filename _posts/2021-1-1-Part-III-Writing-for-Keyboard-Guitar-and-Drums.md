@@ -533,6 +533,6 @@ Sibelius writes your score as an audio file and saves it in the same folder as t
 
 For more information, see Chapter 1.12 "Exporting audio files" in the Reference Guide.
 
-##Conclusion
+## Conclusion
 
 This brings us to the end of the Sibelius Getting Started Guide for Screen Reader Users. As mentioned throughout these tutorials, more detailed information on the use of Sibelius can be found within the Sibelius Reference Guide.
