@@ -3,7 +3,7 @@ layout: post
 title: Introduction
 ---
 
-Welcome to the Sibelius Getting Started Guide for Screen Reader Users. This series of tutorials is produced by the Assistive Music Technology Lab at Berklee College of Music. It's based in part on Avid’s *Sibelius Tutorial* PDF and uses the example scores that come with Sibelius.
+Welcome to the Sibelius Getting Started Guide for Screen Reader Users. This series of tutorials is produced by the Assistive Music Technology Lab at Berklee College of Music. It's based in part on Avid’s *Sibelius Tutorial* PDF and uses the example scores that come with Sibelius. This introduction section covers Quick Start, the Ribbon, the score object, keyboard shortcuts, and other useful information before you dive into the main tutorial.
 
 <!--more-->
 
@@ -31,7 +31,7 @@ For purposes of this tutorial, regardless of where you might land, stop any poss
 
 With the New Score tab selected, press Tab a few times until you hear "Bass Staff, text." You’ve now landed in a list of manuscript paper organized into different categories of instrumentation such as chamber group, jazz, orchestral and solo instruments, among others. The Bass staff manuscript paper is found in the "Common" category. Use the Arrow keys to move through the various manuscript papers in this category. To move to another category, use Tab and Shift+Tab then the Arrow keys to select the manuscripts within that category. For now, press Tab until you land on "Bass Staff," then press the Right Arrow to move to "Piano" and press Return to open a new score using the default settings for a blank piano score with no sharps or flats.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Intro 01 Quick Start.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Intro 01 Quick Start.mp3'></audio>
 
 ## The Ribbon
 The primary location for commands in Sibelius is in the ribbon, a wide band of command buttons that appears at the top of the screen when you select a tab such as File or Home. Each tab describes a related set of commands (Note Input, Notations, Text, Layout, and so on). When you select a tab, the ribbon changes to show the buttons that let you use those commands. Each ribbon tab contains a number of groups of related commands.
@@ -40,25 +40,25 @@ While Windows users use the Alt key to move focus to and from the Ribbon, Mac us
 
 When the keyboard cursor is focused on the ribbon, you can navigate to different ribbon tabs using the Arrow keys, or press a single letter, such as F for File, H for Home, I for Note Input, N for Notation, etc. Once you select a tab in the ribbon and press the Tab key, Sibelius will focus on the various buttons and elements within that tab.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Intro 02 The Ribbon.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Intro 02 The Ribbon.mp3'></audio>
 
 ## Key Combinations, Single Letter Shortcuts and Key Tips
 Sibelius often provides multiple ways of executing tasks. Some involve traditional keyboard shortcuts like a modifier key plus a letter key. Sometimes a single letter key can open a dialog or execute a command. While many tasks found in the ribbon have keyboard shortcut or single letter equivalents, there are some items that can only be accessed by navigating the ribbon. Sibelius offers a quick and easy way to navigate virtually everything in the ribbon through something known as "key tips." Key tips are strings of one or two letters that appear within every button or menu in the ribbon. Once you’ve pressed the Control key then the key tip for that tab, you can access any item within that tab by typing the letters associated with that item. 
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Intro 03 Key Tips.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Intro 03 Key Tips.mp3'></audio>
 
 ## Find in Ribbon
 
 Sibelius provides a very quick way to find commands and functions within the ribbon through the "Find in Ribbon" search feature. Press the Comma key (or Control+Zero) to bring focus to the Find in Ribbon search field. Start typing a search term and Sibelius will automatically provide a list of search results. Use the Up and Down Arrow keys to navigate the results, which list keyboard shortcuts, indicate the tab location of the selected item and provide useful tips.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Intro 04 Find in Ribbon.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Intro 04 Find in Ribbon.mp3'></audio>
 
-## Main Window
+## Score Object
 Once a new document is opened, VoiceOver announces that Sibelius has a new window. When VoiceOver stops speaking, press Tab a couple of times to focus on the score. From there, press Tab or Shift+Tab to move to and select the next or previous object,  respectively, on the current staff. To navigate only notes, select a note using Tab or Shift+Tab, then press the Right or Left Arrows to select the next or previous note.
 
 If you don't hear a selected object when you press the Right or Left Arrow, most likely the keyboard focus is on the ribbon. Simply pressing Control again will move keyboard focus away from the ribbon and back into the score. If you don't hear the selected item even though the keyboard focus does not appear to be in the ribbon, press VO+Up Arrow once or twice to stop interacting with everything, then press VO+Home (or VO+FN+Left Arrow on a laptop) to bring focus to the ribbon group. Press the Control key and focus should come back to one of the tabs in the ribbon. Pressing Tab at that point should put the focus back into the score. If all else fails, manually move VO cursor to the status bar (with VO+End) and move left until you get to the selected object in the score.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Intro 05 Managing Focus in a Score.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Intro 05 Managing Focus in a Score.mp3'></audio>
 
 ## Modifier Keys and Shortcuts
 If you're transitioning from Sibelius on a Windows machine to a Mac, most familiar Sibelius shortcuts will work if you replace the Control modifier with Command, and Alt with Option. For example, to go to the previous or next staff you would use Command+Option+Up or Down Arrow on the Mac instead of Control+Alt+Up or Down Arrows as you would in Windows.
@@ -67,7 +67,7 @@ If you're transitioning from Sibelius on a Windows machine to a Mac, most famili
 
 Sibelius \| Ultimate offers the option to customize keyboard shortcuts or add shortcuts to a whole range of actions. To see the complete list of actions available (along with the associated shortcuts), go to the Keyboard Shortcuts category of Sibelius Preferences.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Intro 06 Customizing Keyboard Shortcuts.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Intro 06 Customizing Keyboard Shortcuts.mp3'></audio>
 
 ## Sibelius \| First, Sibelius, and Sibelius \| Ultimate
 

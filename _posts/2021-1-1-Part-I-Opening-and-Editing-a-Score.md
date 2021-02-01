@@ -17,7 +17,7 @@ Sibelius comes with some example scores that demonstrate various aspects of the 
 
 Press Command+O. In the resulting file browser dialog, navigate to Documents > Scores > Sibelius Example Scores > Project Files > Project 1 and press Return.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 01 Opening a Score.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 01 Opening a Score.mp3'></audio>
 
 ### Introducing the Ribbon
 
@@ -68,7 +68,7 @@ Suggested settings:
 * 
 * Uncheck "Include Property Changes in Prompt"
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 02 Verbosity.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 02 Verbosity.mp3'></audio>
 
 ## Note Input and Editing
 
@@ -81,7 +81,7 @@ In order to complete this section of the project, you'll need to make the "#2 Ed
 *  Press the "Yes" button and you’ll be returned to the Edit Versions dialog..
 *  Press Tab or Shift+Tab to get to the "Close" button to close the Edit Versions dialog.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 03 Score Versions.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 03 Score Versions.mp3'></audio>
 
 Most of the actions you'll perform in Sibelius are related to inputting notes and editing what you’ve input. Sibelius lets you input music in a number of ways — scanning sheet music (not accessible at the time of this publication), playing a MIDI keyboard or guitar, placing notes with the mouse (by sighted users), opening files from other programs — but the fastest way of all is by typing, using your computer keyboard and editing as you go.
 
@@ -99,11 +99,11 @@ As you learn how to enter and edit notes in a score, you can use the Esc key as 
 
 The fastest way to move between notes in Sibelius is to use your computer keyboard. You can move forward and backward from one note or rest to the next by using the Left and Right Arrow keys; to move to the first note or rest in a bar, press Command+Left Arrow or Command+Right Arrow.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 04 Navigating with Arrow Keys.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 04 Navigating with Arrow Keys.mp3'></audio>
 
 You can also use the Tab key to move forward through every object attached to a staff. Tab selects the first object on the page, so you don’t need to use your mouse at all. Try this out in the "Scarborough Fair" score: make sure you have nothing selected (by pressing Esc) and then press Tab. Keep pressing Tab and you’ll advance through the notes, rests, dynamic markings, lyrics and so on. To go backward in this way, simply press Shift+Tab.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 05 Tabbing Through a Staff.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 05 Tabbing Through a Staff.mp3'></audio>
 
 
 ### The Keypad
@@ -112,7 +112,7 @@ The Keypad at the bottom right of the screen is where sighted users choose note 
 
 Note values, articulations and symbols are available within 6 different Keypad layouts known as "palettes." To choose a palette, press F7 through F12 or you can use the "+" key on the numeric keypad to cycle through them.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 06 The Keypad.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 06 The Keypad.mp3'></audio>
 
 
 ### Notebook (laptop) Shortcuts
@@ -123,13 +123,13 @@ To switch to the Notebook (laptop) keyboard shortcuts, in Sibelius \| Ultimate, 
 
 When switched to the Notebook (Laptop) Shortcuts feature set, instead of using the keypad, you can use the numbers along the top of your keyboard, which will correspond to the same numbers on the Keypad. This feature set also lets you use Shift+1 to Shift+9 to enter intervals above a note — see chapter 2 "Keyboard shortcuts" in the Sibelius Reference Guide.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 07 Notebook (Laptop) Shortcuts.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 07 Notebook (Laptop) Shortcuts.mp3'></audio>
 
 ### Editing Notes with the Keypad
 
 All Keypad keys instantly modify the currently selected note. So to change the duration or add accidentals to a note, simply select it by moving to it with one of the Arrow keys and then press a key on the numeric keypad corresponding to the note value or articulation you'd like to add or edit.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 08 Editing Notes with the Keypad.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 08 Editing Notes with the Keypad.mp3'></audio>
 
 ### Undo and Redo
 
@@ -137,19 +137,19 @@ If you make a mistake or are unhappy with changes you’ve made, you can save yo
 
 To redo an undone action, press Command+Y. Sibelius also includes an "undo history” that lists all the operations you’ve recently done and lets you jump back to any earlier point in time.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 09 Undo and Redo.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 09 Undo and Redo.mp3'></audio>
 
 ### Keyboard Panel and QWERTY Mode
 
 While you can enter notes from a QWERTY keyboard by interval values using the numbers row or by letter name, there is an alternative layout perhaps worth mentioning and that is QWERTY Mode, which is only available when the Keyboard Panel is visible. When QWERTY Mode is enabled, the letters A—J  represent a C Major scale while W, E, T, Y and U act as sharps or flats for a rough approximation of a piano keyboard.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 10 Keyboard Panel and QWERTY Mode.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 10 Keyboard Panel and QWERTY Mode.mp3'></audio>
 
 ### Adding Articulations and Ties with the Keypad
 
 Much like editing note durations and accidentals, the Keypad buttons can be used to quickly add or remove articulations and ties: select a note, then choose a Keypad button to add one of these objects to the note, or remove it again. You’ll notice that Sibelius will also obey these articulations when playing back your score.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 11 Adding Articulations and Ties with the Keypad.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 11 Adding Articulations and Ties with the Keypad.mp3'></audio>
 
 ## Selections and Copying Music
 
@@ -172,7 +172,7 @@ Selecting single objects is simple enough; we've already looked at how to select
 * Select a single note.
 * While holding down the Shift key, use the Arrow keys to extend the selection to adjacent notes.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 12 Selecting and Editing Multiple Notes.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 12 Selecting and Editing Multiple Notes.mp3'></audio>
 
 A passage is a continuous chunk of music, possibly running over many pages. It can run along one staff or several. You’ll most often select a passage in order to copy music from one instrument to another — for example if they’re doubling each other. Passage selections let you edit, copy, or delete lots of notes all at once. Before practicing how to make a passage selection, deselect the current objects by pressing Esc. To make a staff passage selection, use one of the following methods:
 
@@ -183,7 +183,7 @@ Method 1
 	* If the selected element in the previous step is *not* part of a chord, pressing Command+Shift+A selects the entire bar in the staff.
 	* If the selected element is a note that *is* part of a chord, pressing Command+Shift+A selects all of the notes in that chord and then pressing it once more selects the entire bar.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 13 Staff Passage Selections Method 1.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 13 Staff Passage Selections Method 1.mp3'></audio>
 
 Method 2
 
@@ -191,7 +191,7 @@ Method 2
 * If the selected note or rest is the first element in the bar, press Command+Shift+Right Arrow to select to the end of the current bar. If the selected note or rest is the last element, press Command+Shift+Left Arrow to select to the beginning of the bar.
 * Pressing Command+Shift+Left or Right Arrow will extend the range of selected bars in either direction.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 14 Staff Passage Selections Method 2.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 14 Staff Passage Selections Method 2.mp3'></audio>
 
 Method 3
 
@@ -200,35 +200,35 @@ Method 3
 * Define a selection range.
 * If the "Make System Selection" option is checked, uncheck it and press OK.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 15 Staff Passage Selections Method 3.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 15 Staff Passage Selections Method 3.mp3'></audio>
 
 To include other staves in a passage selection, use Shift+Up or Down Arrow to extend your selection. To make a system selection (a passage selection that will include all staves plus system objects), use the steps described earlier in Method 3, this time checking the checkbox for "Make System Selection." If you already have a passage selected, you can change it into a system selection instantly by pressing Option+Shift+A.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 16 System Passage Selections.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 16 System Passage Selections.mp3'></audio>
 
 You can select the entire score as a system selection by pressing Command+A. This is particularly useful for transposing the whole score, altering the format of the whole score, or for selecting a particular type of object throughout the score.
 
 ### System Object Navigation
 Use Command+Shift+Hyphen and Command+Shift+Equals to navigate backwards and forwards respectively through system objects within a score. System objects include things like bar lines, instrument names and score title. Once selected, you can cut, copy and paste as well as edit system objects.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 17 System Object Selection.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 17 System Object Selection.mp3'></audio>
 
 You might find the need to remove one or more bars — empty or not — from your score, so this is a very important function to learn. There are two ways to delete bars in Sibelius. The easiest way is to make a passage selection containing the bars you want to remove from the score, then press Command+Delete. You’ll be asked if you’re sure you want to continue. Click Yes, and notice that you can switch on a checkbox labeled "Don’t say this again" if you want Sibelius to skip the confirmation prompt. You can make this and other similarly dismissed warning messages appear again by clicking Show All Messages in the Other category of Sibelius Preferences.
 
 Another way to delete bars is to make a system passage selection, then press Delete.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 18 Deleting Bars.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 18 Deleting Bars.mp3'></audio>
 
 ### Copying
 Try selecting various objects, then deleting them with the Delete key. Delete a piece of text, such as the “Arranger” text (from the top of the first page). If you delete a note it turns into a rest to ensure that the rhythm still adds up. Press Command+X to cut a selection and copy it to the clipboard. Press Command+V to paste the contents of the clipboard. Remember that you can use Undo and Redo to restore anything you delete.
 
 Copying music between bars, staves, and even different files is very easy in Sibelius. Use standard cut, copy and paste commands to work with single, multiple or passage selections.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 19 Cut, Copy and Paste.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 19 Cut, Copy and Paste.mp3'></audio>
 
 Sibelius also lets you duplicate notes or other objects in your score so that an exact copy appears immediately after the original. To duplicate notes or other objects, select the note or objects you want to duplicate, then press the letter R.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 20 Duplicating Notes and Selections.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 20 Duplicating Notes and Selections.mp3'></audio>
 
 ## Flexi-time Input
 
@@ -242,7 +242,7 @@ You have already learned how to input notes by using a QWERTY keyboard. There ar
 
 To use Flexi-time, you must have a MIDI input device (such as a MIDI keyboard) connected to your computer. To select a MIDI device for MIDI input, make sure your MIDI device is correctly installed (along with any necessary drivers and cable connections), then go to the Input Devices page of Sibelius Preferences.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 21 Input Devices Dialog.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 21 Input Devices Dialog.mp3'></audio>
 
 To learn more about setting up input and playback with MIDI devices, see Chapter 3.13 "Input Devices" in the Sibelius Reference Guide.
 
@@ -250,13 +250,13 @@ To learn more about setting up input and playback with MIDI devices, see Chapter
 
 The easiest way to learn how Flexi-time works is to try playing in a single melodic line. Select a staff, then press Command+Shift+O to set up Flexi-time options.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 22 Flexi-Time Options Dialog.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 22 Flexi-Time Options Dialog.mp3'></audio>
 
 ### Recording MIDI Input with Flexi-time
 
 To record using Flexi-time, press Command+Shift+F. Sibelius plays a one bar count-in and then starts recording what you play. To stop recording, press the Spacebar.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 23 Flexi-Time Input.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 23 Flexi-Time Input.mp3'></audio>
 
 In Project 3 of these tutorials, you will learn how to input onto two staves simultaneously. You can also change other options such as rubato (the flexibility of your tempo) and the way in which triplets and other tuplets are recognized. For more information, see Chapter 3.14 "Flexi-time" in the Sibelius Reference Guide.
 
@@ -270,13 +270,13 @@ You can input notes into Sibelius by typing the pitches using the letters A—G 
 
 Once you get used to changing the durations with one hand using the numeric keypad, input the pitches with the other hand using the letters A—G and R (for "repeat"). You’ll find this to be a very fast method of entering notes. Remember, you can edit existing note articulations, accidentals and other attributes just by selecting the note and pressing the appropriate key on the numeric keypad. Changing the pitch of a note is just as simple: select the note and type the new pitch using the letters A—G. You’ve already seen how to change the length of a note by selecting it and choosing different note values from the Keypad.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 24 Alphabetic Input.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 24 Alphabetic Input.mp3'></audio>
 
 ### Chords in Alphabetic Input
 
 Building chords with alphabetic input is simple. Start by creating a single note, then use either the numbers row or letter keys to add intervals to the existing pitch. Pressing 3 on the numbers row adds a third above the currently selected note. Pressing 5 adds a fifth above, and so on. Using Shift plus the numbers row puts the new notes below the currently selected note. You can also add intervals above the selected note by using Shift plus letter names for pitches. Note that there are no shortcuts for adding notes below by letter-name.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 25 Alphabetic Chord Input.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 25 Alphabetic Chord Input.mp3'></audio>
 
 ### Step-time Input
 
@@ -308,11 +308,11 @@ When playing back a transposing score, Sibelius reads transposing instruments co
 
 You can tell whether the score is showing at sounding or transposing pitch in this way by referring to the status bar along the bottom of the window, which will say “Concert Pitch” or “Transposing Score” as appropriate.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 26 Concert vs. Transposed View.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 26 Concert vs. Transposed View.mp3'></audio>
 
 Sibelius’s note input methods allow you to enter notes into a score with Transposing Score switched on. If you type notes using the letters A—G, then the corresponding written pitches will appear on the staff. However, when you play pitches in step-time using a MIDI input device, then the sounding pitches will appear on the staff.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 27 Note Input and Transposing Scores.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 27 Note Input and Transposing Scores.mp3'></audio>
 
 ### Working with Parts
 
@@ -320,7 +320,7 @@ In addition to automatically transposing instruments in a score, Sibelius create
 
 To view the parts from a score, press the letter W.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 28 Working with Parts.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 28 Working with Parts.mp3'></audio>
 
 For more information on parts, see Chapter 9.1 "Working with parts" in the Sibelius Reference Guide.
 
@@ -332,7 +332,7 @@ One of the most powerful features of Sibelius, which we haven't really discussed
 
 ### Playback Controls
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 29 Playback Controls.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 29 Playback Controls.mp3'></audio>
 
 If you have problems with playback, see "Playback Troubleshooting" below.
 
@@ -354,7 +354,7 @@ If you still can’t hear anything during playback, check that Sibelius is corre
 * If you still can’t hear any sound, click the Audio Engine Options button.
 * Check that your preferred interface is selected. 
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 30 Playback Devices Dialog.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 30 Playback Devices Dialog.mp3'></audio>
 
 If you are still unable to hear Sibelius play your score please contact technical help.
 
@@ -384,7 +384,7 @@ To add lyrics to a staff, do the following:
 * If the syllable spans more than one note, press hyphen repeatedly (once for each note) until the cursor appears under the note where you want to enter the next syllable.
 * To add a break between words, press the Spacebar. If the last syllable of the word you entered spans more than one note, repeatedly press the Spacebar until the cursor appears under the note where you want to start the next word. Sibelius will indicate that the word is supposed to continue melismatically by drawing a line up to the point at which the syllable ends.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 31 Adding Lyrics.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 31 Adding Lyrics.mp3'></audio>
 
 Typing in lyrics by hand can be quite a laborious task — especially if you have to work out where to syllabify words. Sibelius can import a text file containing the lyrics to your song and automatically syllabify them for you. A text file containing the words to "Scarborough Fair" is included in the Project Files folder of example scores.
 
@@ -395,7 +395,7 @@ To import lyrics from a text file:
 * Click Browse to select a text file from a standard file browser dialog.
 * In the resulting dialog, click OK to import the lyrics.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 32 Importing Lyrics.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 32 Importing Lyrics.mp3'></audio>
 
 You can also copy lyrics from other programs (such as word processors), create multiple verses of lyrics, and control aspects of their appearance and formatting. For more information, see Chapter 5.7 "Lyrics" in the Sibelius Reference Guide.
 
@@ -410,17 +410,17 @@ To create a text dynamic:
 * Sibelius creates an insertion caret in the appropriate spot below the staff.
 * Type the desired expression text and press Escape.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 33 Dynamics.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 33 Dynamics.mp3'></audio>
 
 Alternatively, use the "word menu," which offers predefined options for entries commonly used within each type of element. For example, you can press Command+E for Expression text, then press VO+Command+Spacebar to bring up a list of potential entries for the Expression text field.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 34 Word Menus.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 34 Word Menus.mp3'></audio>
 
 ### Tempo Text
 
 Tempo text is used at the start of a score and at sections where the tempo of the music changes dramatically. Sibelius follows tempo text during playback and changes the speed accordingly.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 35 Tempo Text.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 35 Tempo Text.mp3'></audio>
 
 You could try experimenting with a few of the different tempo suggestions available in the word menu by deleting the Allegro marking and choosing Tempo from the Common category in the gallery again — see how the score would sound using Prestissimo or Maestoso.
 
@@ -430,7 +430,7 @@ You may also be interested to know that you can use the Tempo text style to alte
 
 To tell a performer to change the sound of an instrument, or to employ a particular instrumental technique or device, use Technique text. Sibelius understands your instructions too, and will play them back (depending on your playback device), so that you can use mutes, pizzicato, tremolo, distortion, and other effects in your score. Technique text is like Expression text, but it appears above the staff and non-italicized by default.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 36 Technique Text.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 36 Technique Text.mp3'></audio>
 
 For more information about Expression, Tempo, and Technique text and other common text styles, see Chapter 5.2 "Common text styles" in the Sibelius Reference Guide.
 
@@ -438,7 +438,7 @@ For more information about Expression, Tempo, and Technique text and other commo
 
 To edit text that’s already in your score, select it using Tab or Shift+Tab and press Return (on the main keyboard).
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part I 37 Editing Text.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part I 37 Editing Text.mp3'></audio>
 
 You can use these techniques to edit any piece of text in your score, so it’s easy to change titles, lyrics, dynamics, and other instructions.
 

@@ -46,7 +46,7 @@ To record and have Sibelius transcribe your MIDI performance:
 * Note that there's some existing music in the right hand part from bar 9 to bar 17. When you reach the existing music at bar 9, you can stop playing with your right hand and continue with the left hand until bar 17, where you can resume playing with the right hand.
 * When you want to stop recording, press the Spacebar or Esc.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 01 Using a MIDI Keyboard.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 01 Using a MIDI Keyboard.mp3'></audio>
 
 For more about recording Flexi-time input see Chapter 3.14 "Flexi-time" in the Reference Guide.
 
@@ -88,7 +88,7 @@ To change notes and chords to use a muted (cross) notehead:
 * Select the note or chord whose noteheads you want to change. (Press Command+Shift+A once to select all the notes in a chord.)
 * Choose Notations tab > Noteheads > Type button to change the notehead to a cross, or press Option+Shift+1 on the numeric keypad.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 02 Changing Noteheads.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 02 Changing Noteheads.mp3'></audio>
 
 There's more about changing noteheads later in this project; also see Chapter 4.12 "Noteheads" in the Reference Guide.
 
@@ -105,7 +105,7 @@ To convert standard notation to tab notation:
 
 The notation staff is changed into a six-string tab staff automatically and all the music is converted into tab notation. You can copy music to and from this tab staff and Sibelius automatically transcribes copied music into the appropriate notation for the staff type.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 03 Converting to Tab Notation.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 03 Converting to Tab Notation.mp3'></audio>
 
 ### Writing Tab Notation
 
@@ -137,7 +137,7 @@ To add a drum staff to the score:
 
 Now you should see a percussion staff added to your score, ready for you to add a drum part.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 04 Adding a Drum Staff to a score.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 04 Adding a Drum Staff to a score.mp3'></audio>
 
 ### Entering Drum Notation
 
@@ -158,7 +158,7 @@ Input the drum pattern in bar 6:
 * Press again to remove the circle symbol if you don’t want it.
 * Press F7 to return to the first Keypad layout and continue note input.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 05 Entering Drum Notation.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 05 Entering Drum Notation.mp3'></audio>
 
 Sibelius can write up to four independent voices, or lines of notes and chords, on a single staff (though you’ll rarely need to use more than two voices at a time). To add the bass drum and snare pattern so that their stems always point down while the hi-hat note stems point up, use Voice 2 for the bass drum and snare:
 
@@ -172,7 +172,7 @@ Sibelius can write up to four independent voices, or lines of notes and chords, 
 
 For more detail on voices, see Chapter 3.15 "Voices" in the Reference Guide.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 06 Entering Drums in Voice 2.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 06 Entering Drums in Voice 2.mp3'></audio>
 
 #### Changing Noteheads
 
@@ -190,13 +190,13 @@ To change the noteheads to strikes for the selected notes:
 * Click the Notations tab > Noteheads > Type button, or press Option+Shift+1 on the numbers row.
 * All the notes change to use cross noteheads.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 07A Filtering Voices and Changing Noteheads.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 07A Filtering Voices and Changing Noteheads.mp3'></audio>
 
 #### Berklee Convention and Drum Notation
 
 If you’re using the Berklee convention for drum notation, you’ll be entering pitches in the drum staff that differ from what’s illustrated in the Sibelius example score. To access the "Drum Set CTMI" instrument (pre-configured for the Berklee drum notation convention) used in the following demo, download the BDM house style {here} and import it into your score.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 07B Drum Notation with Berklee Convention.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 07B Drum Notation with Berklee Convention.mp3'></audio>
 
 To learn more about noteheads, see Chapter 4.12 "Noteheads" in the Reference Guide.
 
@@ -204,7 +204,7 @@ To learn more about noteheads, see Chapter 4.12 "Noteheads" in the Reference Gui
 
 For those used to programming drum sequences from a MIDI keyboard, using the MIDI Device Drum Map for note entry can help simplify the process of writing drum charts. With the General MIDI layout, one can simply play the keys normally associated with kick, snare, hi-hat, etc. and Sibelius translates the notes into the correct pitches on the percussion staff. To use this method of note entry, you must first set it up under the step-time and Flexi-time category of Sibelius Preferences.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 08 MIDI Device Drum Map.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 08 MIDI Device Drum Map.mp3'></audio>
 
 #### Repeat Bars
 
@@ -224,7 +224,7 @@ To add a repeat bar symbol:
 * Press 1 (on the numeric keypad) to add a single repeat bar.
 * Keep typing 1 for the desired number of bars of repeats.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 09 Repeat Bars.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 09 Repeat Bars.mp3'></audio>
 
 You can also add 2- and 4-bar repeats from the fifth Keypad layout. Sibelius plays back all these different kinds of repeats. For more about repeat bars, see Chapter 4.25 "Repeat bars" in the Reference Guide.
 
@@ -250,7 +250,7 @@ Sibelius lets you type in chord symbols. To add chord symbols to your score:
 * Press the Spacebar to advance to the next note or beat, or Tab to move to the start of the next bar.
 Sibelius creates the appropriate chord symbol, using special sharp and flat characters as well as many other special characters.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 10 Adding Chord Symbols.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 10 Adding Chord Symbols.mp3'></audio>
 
 ### Creating Chord Symbols by Playing MIDI
 
@@ -263,7 +263,7 @@ To add chord symbols playing MIDI:
 * Play a chord on the MIDI keyboard.
 * Sibelius adds a chord symbol and advances to the next beat.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 11 Adding Chord Symbols via MIDI.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 11 Adding Chord Symbols via MIDI.mp3'></audio>
 
 You can play a huge range of chords — from simple triads to complex extended chords — and Sibelius intelligently notates the best corresponding chord symbols. Try playing various combinations of notes on your MIDI keyboard to see how they’re notated.
 
@@ -286,7 +286,7 @@ To remove chord diagrams (usually used for Guitar chord notation):
 
 Note that this preference will only apply to the current score. If you want this to apply to another score, you’ll need to edit the engraving rules for that score or save a house style with your preferred engraving rules to either import into any score or manuscript of your own.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 12 Generating Chord Symbols from Selected Notes.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 12 Generating Chord Symbols from Selected Notes.mp3'></audio>
 
 ### Equivalent Chord Text
 
@@ -298,14 +298,14 @@ To select other chord possibilities for the same pattern of intervals:
 * Choose Text tab > Chord Symbols > Equivalent Chord Text or right-click and choose Equivalent Chord Text from the Chord Symbol submenu.
 * Press Command+Shift+K to select equivalent chord text.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 13 Choosing Equivalent Chord text.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 13 Choosing Equivalent Chord text.mp3'></audio>
 
 To edit an existing chord symbol:
 
 * Select the symbol you want to change and press Return (on the QWERTY keyboard).
 * Play the chord again on your MIDI device or type the correct plain English text for the chord symbol you want.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 14 Editing Chord Symbols.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 14 Editing Chord Symbols.mp3'></audio>
 
 ### Respelling a Chord Symbol
 
@@ -317,7 +317,7 @@ To respell a chord:
 * Choose Text tab > Chord Symbols > Respell Chord Text.
 * The root note of the chord (and any alternate bass note, if the chord is a slash chord) is respelled using the enharmonic equivalent.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 15 Respelling Chord Symbols.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 15 Respelling Chord Symbols.mp3'></audio>
 
 ### Copying Chord Symbols
 
@@ -330,7 +330,7 @@ To copy chord symbols to another instrument:
 * Press Command+C to copy the chord symbols to the clipboard.
 * Move to a transposing instrument staff and press Command+V to paste.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 16 Copying Chord Symbols.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 16 Copying Chord Symbols.mp3'></audio>
 
 It’s worth noting that you can multicopy chord symbols across any number of staves by copying the chord symbols you want to duplicate to the clipboard, using Command+C, selecting the staves you want them copied to, then pressing Command+V.
 
@@ -344,7 +344,7 @@ Sibelius features some very useful plug-ins for working with chord symbols. Thes
 
 To add simple accompaniments from existing chord symbols try running Plug-ins > Chord Symbols > Realize Chord Symbols. This plug-in uses the chord symbols in your score to create piano or guitar accompaniments in a variety of accompaniment styles.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 17 Realized Chord Symbols.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 17 Realized Chord Symbols.mp3'></audio>
 
 ## Repeats and Codas
 
@@ -370,7 +370,7 @@ To mark the start of the repeated section:
 
 Sibelius now plays up to bar 4 and then returns to bar 1 again before playing on through the rest of the score.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 18 Repeat Barlines.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 18 Repeat Barlines.mp3'></audio>
 
 Composers and arrangers often use 1st and 2nd endings, which are only played on the first or second pass through a repeated section. In Sibelius, 1st and 2nd ending lines are system lines and they behave in the same way as the Tempo lines (as used in Project 2).
 
@@ -394,7 +394,7 @@ The line is added to the top of the score, but because it’s a system line it a
 Press L to open the Line gallery (Notations tab > Lines > Line gallery).
 * Choose the 2nd ending line from the Common category to add the second ending line to bar 9.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 19 First and Second Endings.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 19 First and Second Endings.mp3'></audio>
 
 ### Coda and D.S. (or dal Segno) Repeats
 
@@ -411,7 +411,7 @@ To create a D.S. al coda repeat:
 * Select the first of the two coda signs from the list of suggested words and symbols.
 * Type the word Coda and press Esc.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 20 Creating a Coda.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 20 Creating a Coda.mp3'></audio>
 
 Now add the dal segno repeat. When the player reaches the end of bar 21, the dal segno repeat instructs them to jump back to the bar which contains the segno (in this case, we’ll place one at bar 1).
 
@@ -453,7 +453,7 @@ Bar 1-8 (First Ending)
 * Bar 1-4 (Jump to Coda)
 * Bar 22-25 (End)
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 21 Creating a Del Segno Repeat.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 21 Creating a Del Segno Repeat.mp3'></audio>
 
 To learn more about using repeat structures, see Chapter 6.9 "Repeats" in the Reference Guide.
 
@@ -477,7 +477,7 @@ Add string parts to the score:
 
 Now that there are more instruments, Sibelius will prompt you to change the size of the music in order to make it fit better on the page. You will be deleting the Synthesizer staves soon, so click No.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 22 Adding Staves for String Backing.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 22 Adding Staves for String Backing.mp3'></audio>
 
 The Arrange feature is designed to assist with arranging and orchestration, and can save you a lot of time.
 
@@ -495,7 +495,7 @@ To Arrange your score:
 
 Sibelius arranges the music onto the string staves in your score, splitting the music up between the instruments. Arrange intelligently copies music from any number of staves into any other number of staves. It can be used to produce piano reductions, as well as to “explode” chords onto multiple staves. This sophisticated feature helps you arrange and orchestrate for a wide variety of styles and ensembles.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 23 The Arrange Feature.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 23 The Arrange Feature.mp3'></audio>
 
 For more information, see Chapter 3.16 "Arrange" in the Reference Guide.
 
@@ -515,7 +515,7 @@ To remove an instrument from your score:
 * When Sibelius asks if you really want to delete them, click Yes.
 * Click OK to return to the score.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 24 Deleting Instruments from a Score.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 24 Deleting Instruments from a Score.mp3'></audio>
 
 ### Exporting an Audio File
 
@@ -529,7 +529,7 @@ Click the Export button.
 * Type a name for your audio file and click Save.
 Sibelius writes your score as an audio file and saves it in the same folder as the score.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part III 25 Exporting Audio.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part III 25 Exporting Audio.mp3'></audio>
 
 For more information, see Chapter 1.12 "Exporting audio files" in the Reference Guide.
 

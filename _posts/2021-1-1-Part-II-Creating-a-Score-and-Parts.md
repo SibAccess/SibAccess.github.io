@@ -31,7 +31,7 @@ To start a string quartet score (which is what we want), it’s quickest to use 
 
 When you select a manuscript paper, you’ll be presented with Setup options for customizing it.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 01 Creating a New Score.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 01 Creating a New Score.mp3'></audio>
 
 ### Creating Instruments
 
@@ -43,7 +43,7 @@ To open the Add or Remove Instruments dialog:
 
 Because Sibelius knows about so many instruments (more than 650), the Choose from list at the top left of the dialog shows you more convenient selections from the whole set. By default, Sibelius shows you the Common Instruments (which number around 90). However, if you’re looking to write for more obscure instruments, choose All Instruments from the drop-down list to display the complete set. If you’re writing specifically for Band, Jazz, or Orchestral ensembles, select the appropriate option from the list to see standard instruments used in those ensembles. If you can’t find a particularly unusual instrument, Sibelius also lets you design your own — See Chapter 2.6 "Edit Instruments" (Sibelius \| Ultimate Only) in the Reference Guide. The instruments are listed in the standard order in which they would appear in a score, but again you can customize the order if you want to.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 02 Add or Remove Instruments Dialog.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 02 Add or Remove Instruments Dialog.mp3'></audio>
 
 This project calls for a string quartet, so add two violins, a viola, and a cello.
 
@@ -55,7 +55,7 @@ To add String instruments to the score:
 
 Note that the instrument names for the violins aren’t correct for a string quartet, but you can fix that later on.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 03 Adding Instruments.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 03 Adding Instruments.mp3'></audio>
 
 To open the Add or Remove Instruments dialog again at any time, do one of the following:
 
@@ -64,13 +64,13 @@ To open the Add or Remove Instruments dialog again at any time, do one of the fo
 
 In addition to letting you add and remove instruments from your score, this dialog also lets you change their order at any time.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 04 Reordering Staves.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 04 Reordering Staves.mp3'></audio>
 
 ### Document Setup
 
 You’re now returned to the Document Setup, which allows you to choose between different shapes and sizes of paper, or set the house style of the score you’re about to create. You can think of the house style as the "look" or appearance of your score. Different publishers have different house styles, and Sibelius lets you tweak the look of your score in just about every imaginable way, from the fonts you use, to the size of the staves and notes, to the most intricate details, such as the thickness of final double barlines. Don’t worry about these details at the moment though. You can leave the "Unchanged" option selected in the list. If you want, take a look at the list of pre-defined house styles shown in the drop-down menu. Click them to update the preview display of your score. The names indicate the music font — the design of the notes and other symbols — used in the house style (such as Opus) and the main text font (such as Times New Roman). You can experiment with different house styles to find one that best suits your needs. The ones using the Reprise and Inkpen2 music fonts look handwritten and particularly suitable for jazz charts, while the Helsinki music font has a traditional engraved look.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 05 Choosing a House Style.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 05 Choosing a House Style.mp3'></audio>
 
 Time Signature Setup	
 
@@ -80,19 +80,19 @@ Click 4/4 in the list to choose this time signature, and because we want a pick-
 
 We need to add a tempo marking, so for Tempo text, type Allegro molto and switch on Metronome mark to add a specific tempo. Our tempo is 132 quarter-notes (crotchet) per minute, so choose a quarter-note from the menu and type 132.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 06 Time Signature setup.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 06 Time Signature setup.mp3'></audio>
 
 Key Signature Setup
 
 You can also choose a key signature. From the drop-down menu choose Minor sharp keys and then select E minor from the list.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 07 Key Signature setup.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 07 Key Signature setup.mp3'></audio>
 
 Score Information Setup
 
 The last section of the setup options allows you to enter some text, such as the title of the score, the name of the composer/lyricist, and copyright information. The text is automatically added to the first page of music, and if you switch on Create Title page, Sibelius will add the title and composer to an extra title page it creates for you.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 08 Score Information Setup.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 08 Score Information Setup.mp3'></audio>
 
 Save Your Score
 
@@ -100,7 +100,7 @@ Save Your Score
 * Name the score.
 * Navigate to the location where you want to save your score (such as the Scores folder inside your Documents folder) and choose Save or press Return.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 09 Saving a Score.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 09 Saving a Score.mp3'></audio>
 
 ## Scanning Music
 
@@ -110,7 +110,7 @@ Sibelius comes with a free scanning program called PhotoScore Lite, which scans 
 
 At this point, let's take a look at how to save a new version of your score. Go to the Review tab > Versions > New Version. Sibelius will prompt you to name your version and you can optionally add a comment to identify it later.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 10 Saving a Version.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 10 Saving a Version.mp3'></audio>
 
 ## Clefs, Key Signatures, and Tuplets
 
@@ -132,7 +132,7 @@ To add a change of clef:
 * Select the Tenor clef from the top row of the list.
 * Sibelius adds a small Tenor clef and then automatically changes the clef back again after the selected passage. Additionally, the notes are spaced further apart to allow room for the clefs.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 11 Clef Changes.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 11 Clef Changes.mp3'></audio>
 
 ### Key Signatures
 
@@ -144,7 +144,7 @@ To add a key change:
 * Choose Notations tab > Common > Key Signature — or just press the K key.
 * Tab through the choices and choose A major from the list and press Return.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 12 Key Changes.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 12 Key Changes.mp3'></audio>
 
 Clef changes and Key Signatures can be selected and copied, deleted, or moved. If you move a Clef change or Key Signature, Sibelius automatically shifts the music up or down, removing or adding accidentals as appropriate, so that the notes sound the same.
 
@@ -161,7 +161,7 @@ To create a triplet:
 * Press Command+3 on the numeric keypad. A bracketed triplet appears.
 * Enter the remaining 2 notes in the triplet.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 13 Triplets and Tuplets.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 13 Triplets and Tuplets.mp3'></audio>
 
 Sibelius handles tuplets intelligently so that brackets are automatically hidden if the notes within the tuplet are beamed. Additionally, tuplet brackets, when shown, are “magnetic” — they stay with the notes if the notes are moved or transposed. To create other types of tuplets press Command with the tuplet number on the numeric keypad — for example, use 5 for a quintuplet or 6 for a sextuplet. For more complex tuplets, such as 13 in the time of 12, select the note and choose Input tab > Note Input > Triplets and select "Other" to open the Tuplet dialog. For more information, see Chapter 3.10 "Triplets and other tuplets" in the Reference Guide.
 
@@ -188,11 +188,11 @@ To add expressive text:
 * Type any terms not shown in the word menu (such as risoluto, rubato, brillante or appassionato) and they appear in normal italicized text.
 * Note that VoiceOver users need to use VO+Command+Spacebar to access the word menu. Windows users should use the Application key.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 14 Expression Text.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 14 Expression Text.mp3'></audio>
 
 By copying text dynamics from one staff to another, you’ll find that the process of marking up a score becomes much quicker — you can use any of the copying methods you learned in the first project.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 15 Copying and Pasting Expression Text.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 15 Copying and Pasting Expression Text.mp3'></audio>
 
 ### Multicopying an Object
 Where all the staves in your score have the same dynamic marks (for example, the "ff" at the start of bar 43, or the "sf" at bar 53), you can save time by multicopying the dynamic across all the staves.
@@ -205,7 +205,7 @@ To “multicopy” a dynamic across all staves:
 * Make a passage selection at the same bar in the remaining three staves.
 * Press Command+V to paste the dynamic marking to the start of the passage, one copy on each staff.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 16 Multicopying Expression Text.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 16 Multicopying Expression Text.mp3'></audio>
 
 You can also multicopy several objects and paste them vertically across any number of staves — doing this can save you a lot of time when marking up your scores. This task would be achieved using filters, which we'll cover in Part III of this tutorial.
 
@@ -218,7 +218,7 @@ Let's add some more Technique text to the score:
 * Type any terms not shown in the word menu (such as colla parte or tenerezza) and they appear in normal non-italicized text.
 * Note that VoiceOver users need to use VO+Command+Spacebar to access the word menu.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 17 Technique Text.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 17 Technique Text.mp3'></audio>
 
 ### Tempo Text
 
@@ -235,7 +235,7 @@ To add tempo markings:
 * Use the word menu for useful tempo terms and select a tempo, or type tempo text.
 * Press Esc twice to stop editing and deselect the text.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 18 Tempo Text.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 18 Tempo Text.mp3'></audio>
 
 ### Hairpins and Other Lines
 
@@ -248,7 +248,7 @@ To add lines:
 
 Note that Hairpins and slurs have their own keyboard shortcuts: H for a crescendo, Shift+H for a diminuendo and S for a slur.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 19 Hairpins and Other Lines.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 19 Hairpins and Other Lines.mp3'></audio>
 
 For more on lines, see Chapter 4.6 "Lines" in the Reference Guide.
 
@@ -262,7 +262,7 @@ To create a slur:
 * Press the Spacebar to extend the slur one note at a time and Shift+Spacebar in case you need to retract it.
 * Alternatively, instead of pressing Spacebar, make a passage selection before pressing the letter S.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 20 Slurs.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 20 Slurs.mp3'></audio>
 
 Be careful to distinguish between slurs and ties between notes in your scores. Ties are added from the Keypad (see below) and behave differently from slurs.
 
@@ -274,7 +274,7 @@ In the first tutorial project, we discussed how to add articulations to notes fr
 
 You can add articulations to notes in a multiple or passage selection, which can speed up the markup process considerably.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 21 Adding Articulations to Passage Selections.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 21 Adding Articulations to Passage Selections.mp3'></audio>
 
 For more on articulations, see Chapter 4.22 "Articulations" in the Reference Guide.
 
@@ -310,7 +310,7 @@ To add a system break:
 
 Select a barline and choose Layout tab > Breaks > System Break, or just press the Return key.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 22 System Breaks.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 22 System Breaks.mp3'></audio>
 
 Sibelius also lets you add page breaks, which you should normally use only at the end of sections or when you are preparing page turns in parts. For example, in the score of a piece with several movements, set page breaks at the end of each movement; or before a section in a piece that has a new title (such as a film queue). For more information, and to learn how to "lock" passages of music to stop them reformatting, see Chapter 7.9 "Layout and formatting" (Sibelius \| Ultimate Only) in the Reference Guide. Sibelius even adds breaks automatically in helpful places in your parts — see Chapter 7.6 "Auto Breaks" in the Reference Guide.
 
@@ -318,7 +318,7 @@ Sibelius also lets you add page breaks, which you should normally use only at th
 
 Another advantage of Sibelius’s instant reformatting is that you can make massive changes to music you’ve already prepared — such as changing the page shape — and the layout of the whole score updates instantly. Document Setup is another aspect of Sibelius that is highly visual and not easily demonstrated for blind users. However, it is possible to change things like page orientation, staff size and page size when necessary.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 23 Document Setup.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 23 Document Setup.mp3'></audio>
 
 For full details about these settings, see Chapter 7.1 "Document Setup" in the Reference Guide.
 
@@ -346,11 +346,11 @@ Specify any other details you like.
 * Enable the "Include part name" option to display "Full Score" at the top of the page.
 * Click OK to create a single Title page with the Title and Composer text added. Note that if you provided this information when you first created the score, it's added to the Title page automatically.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 24 Creating a Title Page.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 24 Creating a Title Page.mp3'></audio>
 
 When a Title page is created, a special layout mark appears at the start of the score. Selecting this mark and deleting it is the normal process for deleting a title page and any blank pages that were created along with it. At the time of this publication, that icon is not visible to screen readers, so use the following workaround to delete a title page along with any blank pages.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 25 Deleting a Title Page.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 25 Deleting a Title Page.mp3'></audio>
 
 For information on removing one of a number of blank pages, refer to Chapter 7.7 "Breaks" in the Reference Guide.
 
@@ -372,7 +372,7 @@ Under normal circumstances, you probably won’t need to use the Parts tab until
 
 For more information, see Chapter 9 "Parts tab" in the Reference Guide.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 26 Dynamic Parts.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 26 Dynamic Parts.mp3'></audio>
 
 ### Cues
 
@@ -384,7 +384,7 @@ Sibelius makes it simple to add cues to your parts. To add a cue:
 Copy the music you want to use as a cue to the clipboard by selecting it, then choosing Home tab > Clipboard > Copy, or press Command+C.
 * Select the bar rest or rest in the staff or staves on which you want the cue to appear, then choose Home tab > Clipboard > Paste > Paste as Cue, or press Command+Option+Shift+V. If you select more than one staff, Sibelius will paste the cue onto all the selected staves using multicopy.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 27 Creating a Cue.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 27 Creating a Cue.mp3'></audio>
 
 ### Laying Out Parts
 
@@ -410,7 +410,7 @@ Create an alternative bassoon part from the cello staff:
 
 A new bassoon part is created automatically. Notice how the instrument name appearing at the top left-hand corner of the page is updated, as is the part name in the Open new tab list.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 28 Creating a New Part.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 28 Creating a New Part.mp3'></audio>
 
 If you encounter situations where you want to create a part with more than one instrument in it, do the following:
 
@@ -418,7 +418,7 @@ If you encounter situations where you want to create a part with more than one i
 * In the resulting dialog, choose which staves the new part should contain and click "Add to Part" for each staff you wish to add.
 * Click OK when you're done.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 29 New Parts from Multiple Instruments.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 29 New Parts from Multiple Instruments.mp3'></audio>
 
 Instrument changes can be added to part of a score (for instrumental doubling) or can replace one instrument with another, preserving the existing music.
 
@@ -429,7 +429,7 @@ To add an instrument change:
 * Select the instrument into which you'd like the staff to change.
 * Click OK.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 30 Adding an Instrument Change.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 30 Adding an Instrument Change.mp3'></audio>
 
 ### Creating a Piano Reduction
 
@@ -449,7 +449,7 @@ To create a piano reduction of your score:
 * This time, choose Piano~(2) from the drop-down list in the resulting dialog and click OK.
 * The Reduce plug-in condenses the music from the Viola and Violoncello staves onto the lower piano staff.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 31 Creating a Piano Reduction.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 31 Creating a Piano Reduction.mp3'></audio>
 
 The Reduce function is one of over 100 useful plug-ins — extra features written in Sibelius’s built-in programming language, ManuScript — that come with Sibelius and are designed to make repetitive tasks quicker by automatically doing things that might otherwise be quite time-consuming.
 
@@ -478,7 +478,7 @@ To copy a graphic in Sibelius and paste it into another program:
 
 If it appears that the resulting graphic is not detailed enough, adjust the Dots per inch setting within the "Other" page of Sibelius Preferences and redo the steps above.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 32 Exporting Graphics.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 32 Exporting Graphics.mp3'></audio>
 
 Sibelius also lets you export graphics as files in EPS, SVG, PNG, TIFF and BMP formats. For more information, see Chapter 1.15 "Exporting graphics" in the Reference Guide.
 
@@ -496,4 +496,4 @@ To export your score as a MusicXML file:
 
 Most notation programs can open compressed MusicXML files, which are smaller and easier to email than uncompressed MusicXML files. In addition to exporting MusicXML, Sibelius can, of course, import both compressed and uncompressed MusicXML files.
 
-<audio controls><source src='https://raw.githubusercontent.com/chigkim/SibAccess/master/audio/Part II 33 Exporting Music XML.mp3'></audio>
+<audio controls><source src='https://raw.githubusercontent.com/SibAccess/SibAccess.github.io/master/audio/Part II 33 Exporting Music XML.mp3'></audio>
