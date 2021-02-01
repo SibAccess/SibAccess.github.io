@@ -3,7 +3,7 @@ layout: post
 title: Introduction
 ---
 
-Welcome to the Sibelius Getting Started Guide for Screen Reader Users. This series of tutorials is based in part on Avid’s *Getting Started* PDF and uses the example scores that come with Sibelius.
+Welcome to the Sibelius Getting Started Guide for Screen Reader Users. This series of tutorials is produced by the Assistive Music Technology Lab at Berklee College of Music. It's based in part on Avid’s *Sibelius Tutorial* PDF and uses the example scores that come with Sibelius.
 
 <!--more-->
 
