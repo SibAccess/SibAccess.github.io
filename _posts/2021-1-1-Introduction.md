@@ -64,6 +64,10 @@ If you don't hear a selected object when you press the Right or Left Arrow, most
 ## Modifier Keys and Shortcuts
 If you're transitioning from Sibelius on a Windows machine to a Mac, most familiar Sibelius shortcuts will work if you replace the Control modifier with Command, and Alt with Option. For example, to go to the previous or next staff you would use Command+Option+Up or Down Arrow on the Mac instead of Control+Alt+Up or Down Arrows as you would in Windows.
 
+For the list of Sibelius shortcuts, please check:
+* [Sibelius Ultimate Standard Shortcuts for Mac](/Sibelius Ultimate Standard Shortcuts for Mac)
+* [Sibelius Ultimate Laptop Shortcuts for Mac](/Sibelius Ultimate Laptop Shortcuts for Mac)
+
 ### Customizing Keyboard Shortcuts (Sibelius \| Ultimate only)
 
 Sibelius \| Ultimate offers the option to customize keyboard shortcuts or add shortcuts to a whole range of actions. To see the complete list of actions available (along with the associated shortcuts), go to the Keyboard Shortcuts category of Sibelius Preferences.
