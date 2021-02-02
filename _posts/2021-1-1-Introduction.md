@@ -3,7 +3,7 @@ layout: post
 title: Introduction
 ---
 
-Welcome to the Sibelius Getting Started Guide for Screen Reader Users. This series of tutorials is produced by the Assistive Music Technology Lab at Berklee College of Music. It's based in part on Avid’s *Sibelius Tutorial* PDF and uses the example scores that come with Sibelius. This introduction section covers Quick Start, the Ribbon, the score object, keyboard shortcuts, and other useful information before you dive into the main tutorial.
+Welcome to the Sibelius Getting Started Guide for Screen Reader Users. This series of tutorials is produced by the Assistive Music Technology Lab at Berklee College of Music. It's based in part on Avid’s *Sibelius Tutorial* PDF and uses the example scores that come with Sibelius. This introduction section covers Quick Start, the ribbon, the score object, keyboard shortcuts, and other useful information before you dive into the main tutorial.
 
 <!--more-->
 
@@ -23,6 +23,7 @@ For best results while working with Sibelius, turn on cursor tracking with VO+Sh
 * Under the Navigation category, Grouping Behavior should be set to "Standard."
 * Under the Navigation category, "Synchronize Keyboard Focus and VoiceOver Cursor" should be checked.
 * Under the Navigation category, Mouse Pointer should be set to "Follows VoiceOver Cursor."
+* Under the Commanders category, Quick Nav should be unchecked.
 
 ## Quick Start
 Upon launching Sibelius, a window appears entitled "Quick Start." Navigating to the top of the window with the VO cursor, the first item we encounter is a group containing a series of what VoiceOver sees as radio buttons. These are actually tabs within the Quick Start window. The name of this group depends on which tab inside the group is currently selected, so its title might be "Learn," "New Score," "Recent," "Import" or "Latest News." Note that if you’ve already opened a score using one of the Sibelius manuscripts, Sibelius will have remembered your previous selection. As a result, when you land in the Quick Start window, VoiceOver will either be focused on manuscript paper in the New Score tab or on your previous selection.
